@@ -61,5 +61,6 @@ O projeto foi feito em ambiente Google Colab (Jupyter Notebook).
 
 - Referências
 
-	CSVs do Walmart no Kaggle: kaggle.com/datasets/aslanahmedov/walmart-sales-forecast
+	CSVs do Walmart no Kaggle: kaggle.com/datasets/aslanahmedov/walmart-sales-forecast.
+
 	Documentação dos pacotes utilizados pode ser encontrada em seus respectivos sites.
